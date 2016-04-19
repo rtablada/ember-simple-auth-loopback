@@ -1,7 +1,7 @@
 {
   "name": "ember-simple-auth-loopback",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Loopback support for ember-simple-auth",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/rtablada/ember-simple-auth-loopback",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -41,7 +41,10 @@
     "loader.js": "^4.0.0"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-simple-auth",
+    "Loopback",
+    "auth"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"
