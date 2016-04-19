@@ -8,8 +8,8 @@ const assign = Ember.assign || Ember.merge;
 /**
   Authenticator that works with Loopback's default authentication
 
-  @class OAuth2PasswordGrantAuthenticator
-  @module ember-simple-auth/authenticators/oauth2-password-grant
+  @class LoopbackAuthenticator
+  @module ember-simple-auth-loopback/authenticators/loopback
   @extends BaseAuthenticator
   @public
 */
