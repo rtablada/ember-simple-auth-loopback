@@ -1,6 +1,6 @@
 {
   "name": "ember-simple-auth-loopback",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Loopback support for ember-simple-auth",
   "directories": {
     "doc": "doc",
